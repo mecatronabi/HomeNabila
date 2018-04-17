@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mecatronabi/HomeNabila/issues"
   },
-  "homepage": "https://github.com/mecatronabi/HomeNabila#readme"
+  "homepage": "https://github.com/mecatronabi/HomeNabila#readme",
+  "devDependencies": {
+    "firebase-tools": "3.18.4"
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "name": "homenabila",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto a producir",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecatronabi/HomeNabila.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Nabila Padilla <ing.nab@hotmail.com >",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mecatronabi/HomeNabila/issues"
+  },
+  "homepage": "https://github.com/mecatronabi/HomeNabila#readme"
+}
